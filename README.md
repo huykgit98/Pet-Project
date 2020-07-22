@@ -1,4 +1,4 @@
-# Spring-boot-React-Angular-Material-
+# Recursive menu
 Pet project for learning purpose, using:
 - DB:  create tables, stored procedures
 - Spring Boot and Hibernate: call sp and build services (createMenu, updateMenu, deleteMenu, getAllMenu) as RESTful API
