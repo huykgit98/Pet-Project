@@ -8,7 +8,11 @@ Pet project for learning purpose, using:
 - AWS
 - Docker
 - Unit Test for Spring boot, Angular, React
+------------------------------------------
 
+- NodeJS for call third-party API??? 
 - Multi Threading???
 - Lazy loading???
-- Socket???
+- Socket for real time app???
+- Pagination???
+- Security(JWT, OAUTH)???
