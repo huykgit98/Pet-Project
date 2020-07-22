@@ -6,6 +6,7 @@ Pet project for learning purpose, using:
 - Angular rxjs + Angular JDK
 - React material-UI + react-hook + redux
 - AWS
+- Nexflix Eureka
 - Docker
 - Unit Test for Spring boot, Angular, React
 ------------------------------------------
