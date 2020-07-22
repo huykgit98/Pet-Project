@@ -9,7 +9,8 @@ Pet project for learning purpose, using:
 - Docker
 - Unit Test for Spring boot, Angular, React
 ------------------------------------------
-
+- MongoDB for chat and MySQL for Recursive menu???
+- ChatAPI Kafka ???
 - NodeJS for call third-party API??? 
 - Multi Threading???
 - Lazy loading???
