@@ -4,9 +4,10 @@ Pet project for learning purpose, using:
 - Spring Boot and Hibernate: call sp and build services (createMenu, updateMenu, deleteMenu, getAllMenu) as RESTful API
 - Vanila JS
 - Angular rxjs + Angular JDK
-- React material-UI + react-hook + redux
-- AWS
-- Nexflix Eureka
+- React material-UI + react-hook + redux: User Interface for microservices.
+- Amazon S3 to store files (images): https://www.youtube.com/watch?v=i-hoSg8iRG0
+- Nexflix Eureka: to connect to other services.
+- Spring Zuul Gateway: gate for microservices.
 - Docker
 - Unit Test for Spring boot, Angular, React
 ------------------------------------------
