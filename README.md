@@ -8,7 +8,7 @@ Pet project for learning purpose, using:
 - React material-UI + react-hook + redux: User Interface for microservices.
 - Amazon S3 to store files (images): https://www.youtube.com/watch?v=i-hoSg8iRG0
 - Nexflix Eureka: to connect to other services.
-- Spring Zuul Gateway: gate for microservices.
+- Spring Zuul Gateway: gate for microservices, connect web clients to backend services
 - Docker
 - Unit Test for Spring boot, Angular, React
 ------------------------------------------
