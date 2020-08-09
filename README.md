@@ -11,6 +11,7 @@ Pet project for learning purpose, using:
 - Spring Zuul Gateway: gate for microservices, connect web clients to backend services
 - Docker
 - Unit Test for Spring boot, Angular, React
+- Nginx
 ------------------------------------------
 - MongoDB for chat and MySQL for Recursive menu???
 - ChatAPI Kafka ???
