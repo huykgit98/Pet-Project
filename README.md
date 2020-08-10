@@ -21,10 +21,11 @@ Pet project for learning purpose, using:
 - Socket for real time app???
 - Pagination???
 - Security(JWT, OAUTH)???
-
+- Call multiple rest services in java?
 
 
 refs:
+https://stackoverflow.com/questions/39620288/how-to-call-the-multiple-rest-services-in-parallel-at-a-time
 https://www.edureka.co/blog/microservices-with-spring-boot
 https://github.com/TechPrimers/stock-price-viewer-microservices-part2-final
 https://developer.okta.com/blog/2019/05/23/java-microservices-spring-cloud-config
