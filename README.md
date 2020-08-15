@@ -23,9 +23,12 @@ Pet project for learning purpose, using:
 - Pagination???
 - Security(JWT, OAUTH)???
 - Call multiple rest services in java?
-
+- Schedule tasks in Java
 
 refs:
+https://spring.io/guides/gs/multi-module/
+https://spring.io/guides/topicals/spring-boot-docker/
+https://spring.io/guides/tutorials/react-and-spring-data-rest/
 https://stackoverflow.com/questions/39620288/how-to-call-the-multiple-rest-services-in-parallel-at-a-time
 https://www.edureka.co/blog/microservices-with-spring-boot
 https://github.com/TechPrimers/stock-price-viewer-microservices-part2-final
