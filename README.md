@@ -18,6 +18,7 @@ Pet project for learning purpose, using:
 - NodeJS for call third-party API??? 
 - Multi Threading???
 - Lazy loading???
+- Client-Side Load-Balancing with Spring Cloud LoadBalancer???
 - Socket for real time app???
 - Pagination???
 - Security(JWT, OAUTH)???
