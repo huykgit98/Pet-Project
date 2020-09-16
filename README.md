@@ -12,6 +12,7 @@ Pet project for learning purpose, using:
 - Docker
 - Unit Test for Spring boot, Angular, React
 - Nginx
+- Communication among microservices using RestTemplate - https://www.youtube.com/playlist?list=PLq3uEqRnr_2FuTmCBjb4Br5eunU693prt
 ------------------------------------------
 - MongoDB for chat and MySQL for Recursive menu???
 - ChatAPI Kafka ???
