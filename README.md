@@ -1,7 +1,7 @@
 # Recursive menu
 Pet project for learning purpose, using:
 - DB:  create tables, stored procedures
-- Cache DB: Redis
+- Cache DB: Redis (https://www.youtube.com/playlist?list=PLq3uEqRnr_2EGtGlFBPeGtL-ccsJY_8EJ)
 - Spring Boot and Hibernate: call sp and build services (createMenu, updateMenu, deleteMenu, getAllMenu) as RESTful API
 - Vanila JS
 - Angular rxjs + Angular JDK
