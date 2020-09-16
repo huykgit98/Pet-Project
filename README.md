@@ -18,7 +18,7 @@ Pet project for learning purpose, using:
 - ChatAPI Kafka ???
 - NodeJS for call third-party API??? 
 - Multi Threading???
-- Lazy loading???
+- Lazy loading??? https://www.youtube.com/playlist?list=PLq3uEqRnr_2H4SCvFAA1T7ZbvkIr2QjLj
 - Client-Side Load-Balancing with Spring Cloud LoadBalancer???
 - Socket for real time app???
 - Pagination???
