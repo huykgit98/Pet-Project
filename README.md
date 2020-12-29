@@ -29,6 +29,7 @@
 - Schedule tasks in Java
 
 refs:
+https://aws.amazon.com/training/learn-about/developer/
 https://spring.io/guides/gs/multi-module/
 https://spring.io/guides/topicals/spring-boot-docker/
 https://spring.io/guides/tutorials/react-and-spring-data-rest/
